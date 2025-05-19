@@ -1,6 +1,6 @@
 ## What are you trying to accomplish with this PR?
 
-Adding new hero Black Friday landing page to the site. 
+Adding new Black Friday landing page to the site. 
 
 ## ClickUp Link
 
