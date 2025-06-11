@@ -4,7 +4,11 @@
 
 ## ClickUp Link
 
-Task: https://app.clickup.com/
+Task: 
+
+## Theme Link
+
+Preview: 
 
 ## Code Standards
 
